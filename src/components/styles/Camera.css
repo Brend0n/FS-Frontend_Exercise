@@ -1,0 +1,51 @@
+.container-camera {
+  background-color: white;
+  width: 32%;
+  min-width: 250px;
+  margin: 30px 5px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 2px 2px 5px gray;
+}
+
+.camera-inactive {
+  opacity: 0.3;
+}
+
+.camera-thumbnail {
+  min-width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.camera-info {
+  position: relative;
+  padding-left: 16px;
+  text-align: left;
+  color: darkgray;
+}
+
+.camera-status {
+  font-size: 11px;
+  font-style: italic;
+}
+.color-marker {
+  position: absolute;
+  height: 90%;
+  width: 5px;
+  top: 2px;
+  left: 4px;
+  border-radius: 2px;
+}
+
+.green {
+  background-color: #30d17f;
+}
+.red {
+  background-color: #ca6060;
+}
+.camera-title {
+  margin: 0 auto 5px 0;
+  color: #2b4039;
+  padding-right: 5px;
+}

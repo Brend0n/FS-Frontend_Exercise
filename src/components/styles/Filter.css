@@ -1,0 +1,33 @@
+.filter-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.search-input {
+  text-align: left;
+  border-radius: 5px;
+  min-width: 220px;
+  min-height: 22px;
+  padding: 3px 0 3px 30px;
+  border: 1px solid #24222265;
+  background-image: url("../../assets/img/Search.svg");
+  background-repeat: no-repeat;
+  background-position: 5px;
+  background-size: 18px;
+}
+
+.filter {
+  min-height: 22px;
+  border: 1px solid #24222265;
+  background-color: #f5f6f8;
+  min-width: 140px;
+  padding: 3px 0 3px 30px;
+  background-image: url("../../assets/img/Sorting.svg");
+  background-repeat: no-repeat;
+  -webkit-appearance: none;
+  background-position: 5px;
+  background-size: 18px;
+}

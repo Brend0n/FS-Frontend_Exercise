@@ -1,0 +1,17 @@
+.list-separator {
+  display: flex;
+}
+.list-separator-text {
+  font-size: 14px;
+  color: #24222265;
+  white-space: nowrap;
+  margin-right: 5px;
+}
+
+hr {
+  height: 2px;
+  width: 100%;
+  background-color: #66646565;
+  border: 0;
+  margin-left: 5px;
+}

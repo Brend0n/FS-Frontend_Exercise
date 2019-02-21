@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  background-color: #f5f6f8;
+  font-family: "Open Sans";
+}
+
+.main {
+  margin: auto;
+  padding-bottom: 35px;
+  width: 70%;
+}

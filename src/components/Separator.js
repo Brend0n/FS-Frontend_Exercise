@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./styles/Separator.css";
 
 class Separator extends Component {
   render() {

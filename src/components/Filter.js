@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./styles/Filter.css";
 
 class Filter extends Component {
   render() {
